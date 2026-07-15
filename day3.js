@@ -71,3 +71,76 @@ console.log(exponent);
 
 // Output: 8
 // Reason: 2 × 2 × 2 = 8
+1. Increment Operator (++)
+‎
+‎let count = 5;
+‎count++;
+‎
+‎console.log(count);
+‎
+‎// Output: 6
+‎
+‎
+‎
+‎// 2. Decrement Operator (--)
+‎
+‎let number = 5;
+‎number--;
+‎
+‎console.log(number);
+‎
+‎// Output: 4
+‎
+‎
+‎
+‎// 3. Assignment Operator (=)
+‎
+‎let age = 20;
+‎
+‎console.log(age);
+‎
+‎// Output: 20
+‎
+‎
+‎
+‎// 4. Addition Assignment (+=)
+‎
+‎let x = 10;
+‎x += 5;
+‎
+‎console.log(x);
+‎
+‎// Output: 15
+‎
+‎
+‎
+‎// 5. Subtraction Assignment (-=)
+‎
+‎let y = 10;
+‎y -= 5;
+‎
+‎console.log(y);
+‎
+‎// Output: 5
+‎
+‎
+‎
+‎// 6. Multiplication Assignment (*=)
+‎
+‎let z = 10;
+‎z *= 5;
+‎
+‎console.log(z);
+‎
+‎// Output: 50
+‎
+‎
+‎
+‎// 7. Division Assignment (/=)
+‎
+‎let a = 10;
+‎a /= 5;
+‎
+‎console.log(a);
+‎
+‎// Output: 2
