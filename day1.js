@@ -42,4 +42,6 @@ console.log(isStudent);
 let a = 10;
 let b = 5;
 Console.log(a+b);
+console.log("hello shahzaib");
+
 
