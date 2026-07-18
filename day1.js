@@ -1,6 +1,5 @@
 // JavaScript Fundamentals Practice Day 1
 // let Variable
-//My first Git change
 let name="Ahmad";
 Console.log(name);
 
