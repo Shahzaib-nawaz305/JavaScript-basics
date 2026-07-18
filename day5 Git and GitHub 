@@ -1,0 +1,30 @@
+Git & GitHub Practice
+
+Topics Covered
+
+1. Git Installation
+2. Git Configuration
+3. git config --global user.name
+4. git config --global user.email
+5. git init
+6. git clone
+7. git status
+8. git add .
+9. git commit -m "message"
+10. git push origin main
+11. git pull origin main
+12. git checkout
+13. Repository
+14. Local Repository
+15. Remote Repository
+16. Working Directory
+17. Staging Area
+18. Commit
+19. Push
+20. Pull
+21. Main Branch
+22. GitHub Repository Creation
+23. VS Code with Git
+24. Uploading Files to GitHub
+25. Updating Existing Files
+26. Basic Git Workflow
